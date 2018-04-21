@@ -97,7 +97,12 @@ The sections are chosen based on my interests and work done over the years.
 | --- | --- | --- |
 |  T  |  B  |  D  |
 
-## <a name="feedback"></a>4. Feedback
+## <a name="feedback"></a>4. Access and Feedback
+Most of my repositories are private, so you might not be able to access the code and the actual projects using the provided links. However, please feel free to send me an e-mail at dumitrescudragos03@gmail.com and I will give you access to them (if necessary). In this way, we can know each other better :).
+
+**NOTE:** Maybe I will make them public in the near future, but for now they remain as they are.
+
+##### Feedback Time!
 If you encountered any mistakes or difficulties navigating through this document, please don't hesitate to let me know about it (It would be really helpful).
 
 
